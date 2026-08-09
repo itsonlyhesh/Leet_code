@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0060-permutation-sequence](https://github.com/itsonlyhesh/Leet_code/tree/master/0060-permutation-sequence) |
 | [1140-stone-game-ii](https://github.com/itsonlyhesh/Leet_code/tree/master/1140-stone-game-ii) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/itsonlyhesh/Leet_code/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## String
@@ -67,4 +68,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/itsonlyhesh/Leet_code/tree/master/0033-search-in-rotated-sorted-array) |
+## Recursion
+|  |
+| ------- |
+| [0060-permutation-sequence](https://github.com/itsonlyhesh/Leet_code/tree/master/0060-permutation-sequence) |
 <!---LeetCode Topics End-->
