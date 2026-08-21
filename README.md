@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/itsonlyhesh/Leet_code/tree/master/0033-search-in-rotated-sorted-array) |
 | [1140-stone-game-ii](https://github.com/itsonlyhesh/Leet_code/tree/master/1140-stone-game-ii) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/itsonlyhesh/Leet_code/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3731-find-missing-elements](https://github.com/itsonlyhesh/Leet_code/tree/master/3731-find-missing-elements) |
 ## Hash Table
 |  |
@@ -20,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0060-permutation-sequence](https://github.com/itsonlyhesh/Leet_code/tree/master/0060-permutation-sequence) |
 | [1140-stone-game-ii](https://github.com/itsonlyhesh/Leet_code/tree/master/1140-stone-game-ii) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/itsonlyhesh/Leet_code/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/itsonlyhesh/Leet_code/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## String
 |  |
@@ -38,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/itsonlyhesh/Leet_code/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/itsonlyhesh/Leet_code/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Two Pointers
 |  |
@@ -68,8 +71,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/itsonlyhesh/Leet_code/tree/master/0033-search-in-rotated-sorted-array) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/itsonlyhesh/Leet_code/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 ## Recursion
 |  |
 | ------- |
 | [0060-permutation-sequence](https://github.com/itsonlyhesh/Leet_code/tree/master/0060-permutation-sequence) |
+## Bit Manipulation
+|  |
+| ------- |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/itsonlyhesh/Leet_code/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
+## Combinatorics
+|  |
+| ------- |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/itsonlyhesh/Leet_code/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 <!---LeetCode Topics End-->
