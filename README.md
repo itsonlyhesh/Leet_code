@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0060-permutation-sequence](https://github.com/itsonlyhesh/Leet_code/tree/master/0060-permutation-sequence) |
+| [0836-rectangle-overlap](https://github.com/itsonlyhesh/Leet_code/tree/master/0836-rectangle-overlap) |
 | [1140-stone-game-ii](https://github.com/itsonlyhesh/Leet_code/tree/master/1140-stone-game-ii) |
 | [1927-sum-game](https://github.com/itsonlyhesh/Leet_code/tree/master/1927-sum-game) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/itsonlyhesh/Leet_code/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
@@ -122,4 +123,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0177-nth-highest-salary](https://github.com/itsonlyhesh/Leet_code/tree/master/0177-nth-highest-salary) |
 | [0178-rank-scores](https://github.com/itsonlyhesh/Leet_code/tree/master/0178-rank-scores) |
 | [0180-consecutive-numbers](https://github.com/itsonlyhesh/Leet_code/tree/master/0180-consecutive-numbers) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/itsonlyhesh/Leet_code/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
