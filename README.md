@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0060-permutation-sequence](https://github.com/itsonlyhesh/Leet_code/tree/master/0060-permutation-sequence) |
 | [0836-rectangle-overlap](https://github.com/itsonlyhesh/Leet_code/tree/master/0836-rectangle-overlap) |
 | [1140-stone-game-ii](https://github.com/itsonlyhesh/Leet_code/tree/master/1140-stone-game-ii) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/itsonlyhesh/Leet_code/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1927-sum-game](https://github.com/itsonlyhesh/Leet_code/tree/master/1927-sum-game) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/itsonlyhesh/Leet_code/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/itsonlyhesh/Leet_code/tree/master/3348-smallest-divisible-digit-product-ii) |
@@ -131,4 +132,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/itsonlyhesh/Leet_code/tree/master/0836-rectangle-overlap) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/itsonlyhesh/Leet_code/tree/master/1401-circle-and-rectangle-overlapping) |
 <!---LeetCode Topics End-->
