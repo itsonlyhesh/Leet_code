@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0835-image-overlap](https://github.com/itsonlyhesh/Leet_code/tree/master/0835-image-overlap) |
 | [1140-stone-game-ii](https://github.com/itsonlyhesh/Leet_code/tree/master/1140-stone-game-ii) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/itsonlyhesh/Leet_code/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
+| [3525-find-x-value-of-array-ii](https://github.com/itsonlyhesh/Leet_code/tree/master/3525-find-x-value-of-array-ii) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/itsonlyhesh/Leet_code/tree/master/3548-equal-sum-grid-partition-ii) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/itsonlyhesh/Leet_code/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3731-find-missing-elements](https://github.com/itsonlyhesh/Leet_code/tree/master/3731-find-missing-elements) |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1927-sum-game](https://github.com/itsonlyhesh/Leet_code/tree/master/1927-sum-game) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/itsonlyhesh/Leet_code/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/itsonlyhesh/Leet_code/tree/master/3348-smallest-divisible-digit-product-ii) |
+| [3525-find-x-value-of-array-ii](https://github.com/itsonlyhesh/Leet_code/tree/master/3525-find-x-value-of-array-ii) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/itsonlyhesh/Leet_code/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3875-construct-uniform-parity-array-i](https://github.com/itsonlyhesh/Leet_code/tree/master/3875-construct-uniform-parity-array-i) |
 ## String
@@ -138,4 +140,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3498-reverse-degree-of-a-string](https://github.com/itsonlyhesh/Leet_code/tree/master/3498-reverse-degree-of-a-string) |
+## Segment Tree
+|  |
+| ------- |
+| [3525-find-x-value-of-array-ii](https://github.com/itsonlyhesh/Leet_code/tree/master/3525-find-x-value-of-array-ii) |
 <!---LeetCode Topics End-->
