@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/itsonlyhesh/Leet_code/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/itsonlyhesh/Leet_code/tree/master/3548-equal-sum-grid-partition-ii) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/itsonlyhesh/Leet_code/tree/master/3568-minimum-moves-to-clean-the-classroom) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/itsonlyhesh/Leet_code/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3731-find-missing-elements](https://github.com/itsonlyhesh/Leet_code/tree/master/3731-find-missing-elements) |
 ## Sorting
 |  |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/itsonlyhesh/Leet_code/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/itsonlyhesh/Leet_code/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3498-reverse-degree-of-a-string](https://github.com/itsonlyhesh/Leet_code/tree/master/3498-reverse-degree-of-a-string) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/itsonlyhesh/Leet_code/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Backtracking
 |  |
 | ------- |
@@ -58,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1927-sum-game](https://github.com/itsonlyhesh/Leet_code/tree/master/1927-sum-game) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/itsonlyhesh/Leet_code/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/itsonlyhesh/Leet_code/tree/master/3348-smallest-divisible-digit-product-ii) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/itsonlyhesh/Leet_code/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Number Theory
 |  |
 | ------- |
@@ -119,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3548-equal-sum-grid-partition-ii](https://github.com/itsonlyhesh/Leet_code/tree/master/3548-equal-sum-grid-partition-ii) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/itsonlyhesh/Leet_code/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -144,4 +148,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3525-find-x-value-of-array-ii](https://github.com/itsonlyhesh/Leet_code/tree/master/3525-find-x-value-of-array-ii) |
+## Counting
+|  |
+| ------- |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/itsonlyhesh/Leet_code/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 <!---LeetCode Topics End-->
