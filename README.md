@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/itsonlyhesh/Leet_code/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3525-find-x-value-of-array-ii](https://github.com/itsonlyhesh/Leet_code/tree/master/3525-find-x-value-of-array-ii) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/itsonlyhesh/Leet_code/tree/master/3548-equal-sum-grid-partition-ii) |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/itsonlyhesh/Leet_code/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/itsonlyhesh/Leet_code/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3731-find-missing-elements](https://github.com/itsonlyhesh/Leet_code/tree/master/3731-find-missing-elements) |
 | [3875-construct-uniform-parity-array-i](https://github.com/itsonlyhesh/Leet_code/tree/master/3875-construct-uniform-parity-array-i) |
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/itsonlyhesh/Leet_code/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/itsonlyhesh/Leet_code/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/itsonlyhesh/Leet_code/tree/master/3548-equal-sum-grid-partition-ii) |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/itsonlyhesh/Leet_code/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/itsonlyhesh/Leet_code/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/itsonlyhesh/Leet_code/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3731-find-missing-elements](https://github.com/itsonlyhesh/Leet_code/tree/master/3731-find-missing-elements) |
@@ -30,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1096-brace-expansion-ii](https://github.com/itsonlyhesh/Leet_code/tree/master/1096-brace-expansion-ii) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/itsonlyhesh/Leet_code/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/itsonlyhesh/Leet_code/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3731-find-missing-elements](https://github.com/itsonlyhesh/Leet_code/tree/master/3731-find-missing-elements) |
 ## Math
 |  |
