@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/itsonlyhesh/Leet_code/tree/master/0033-search-in-rotated-sorted-array) |
 | [0835-image-overlap](https://github.com/itsonlyhesh/Leet_code/tree/master/0835-image-overlap) |
 | [1140-stone-game-ii](https://github.com/itsonlyhesh/Leet_code/tree/master/1140-stone-game-ii) |
+| [1882-process-tasks-using-servers](https://github.com/itsonlyhesh/Leet_code/tree/master/1882-process-tasks-using-servers) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/itsonlyhesh/Leet_code/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2747-count-zero-request-servers](https://github.com/itsonlyhesh/Leet_code/tree/master/2747-count-zero-request-servers) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/itsonlyhesh/Leet_code/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
@@ -217,4 +218,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2747-count-zero-request-servers](https://github.com/itsonlyhesh/Leet_code/tree/master/2747-count-zero-request-servers) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1882-process-tasks-using-servers](https://github.com/itsonlyhesh/Leet_code/tree/master/1882-process-tasks-using-servers) |
 <!---LeetCode Topics End-->
