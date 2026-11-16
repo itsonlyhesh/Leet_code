@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/itsonlyhesh/Leet_code/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/itsonlyhesh/Leet_code/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1927-sum-game](https://github.com/itsonlyhesh/Leet_code/tree/master/1927-sum-game) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/itsonlyhesh/Leet_code/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/itsonlyhesh/Leet_code/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/itsonlyhesh/Leet_code/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3498-reverse-degree-of-a-string](https://github.com/itsonlyhesh/Leet_code/tree/master/3498-reverse-degree-of-a-string) |
@@ -185,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/itsonlyhesh/Leet_code/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [3498-reverse-degree-of-a-string](https://github.com/itsonlyhesh/Leet_code/tree/master/3498-reverse-degree-of-a-string) |
 ## Segment Tree
 |  |
